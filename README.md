@@ -3,7 +3,6 @@
 Using the last update of Angular:
 Angular CLI: 10.0.3
 Node: 12.18.2
-OS: win32 x64
 
 Angular:
 ...
