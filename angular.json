@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cromados"
+    }
+  },
+  "defaultProject": "cromados",
+  "cli": {
+    "analytics": "d8c7ba1d-6a20-4c8c-a564-4301d3b7f5f9"
+  }
 }

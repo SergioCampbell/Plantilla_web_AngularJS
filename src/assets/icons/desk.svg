@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Conference Desk</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M32 42v20m-8 0h16"
+  stroke-linejoin="round" stroke-linecap="round"></path>
+  <path data-name="layer2" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M60 42L48 18H16L4 42m-2 0h60" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <path data-name="layer1" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M44 20V8.1L40 6" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path data-name="layer2" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M38 24H20l-4.8 10H42l-4-10z" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <path data-name="layer1" d="M40 8V4a2 2 0 0 0-2-2h-8a2 2 0 0 0-2 2v4z"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+</svg>

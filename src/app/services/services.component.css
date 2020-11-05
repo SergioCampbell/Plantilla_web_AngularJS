@@ -1,0 +1,16 @@
+#foco{
+    height: auto; 
+    width: 30px;
+}
+
+#foco:hover{
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    position: relative;
+    animation: zoom 1s infinite;
+}
+
+@keyframes zoom {
+    from {top: 0;}
+    to {top: 10px}
+}

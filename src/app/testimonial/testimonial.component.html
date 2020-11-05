@@ -1,0 +1,43 @@
+<section class="container text-center my-2 bg-light">
+
+    <!-- Section heading -->
+    <h2 class="display-4 my-5">Los usuarios dicen:</h2>
+    <!-- Section description -->
+    <!--p class="dark-grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
+      eum porro a pariatur veniam.</p-->
+  
+    <!--Grid row-->
+    <div class="grid ">
+  
+      <!--Grid column-->
+      <div class="row">
+  
+        <div class="testimonial col img-thumbnail" *ngFor="let item of tList">
+          <!--Avatar-->
+          <div class=" mx-auto ">
+            <img [src]="item.path" class="shadow rounded-circle img-size img-fluid">
+          </div>
+          <!--Content-->
+          <h4 class="text-dark mt-4"> {{ item.name }}</h4>
+          <!--h6 class="font-weight-bold blue-text my-3">Web Designer</h6-->
+          <p class="text-dark mt-2 mb-2">
+            <i class="fa fa-quote-left pr-2"></i> {{ item.text }} <i class="fa fa-quote-right pr-2"></i> 
+          </p>
+          <!--Review-->
+          <div >
+            <i class="fa fa-star"> </i>
+            <i class="fa fa-star"> </i>
+            <i class="fa fa-star"> </i>
+            <i class="fa fa-star"> </i>
+            <i class="fa fa-star-half"> </i>
+          </div>
+        </div>
+  
+      </div>
+  
+  
+    </div>
+    <!--Grid row-->
+  
+  </section>

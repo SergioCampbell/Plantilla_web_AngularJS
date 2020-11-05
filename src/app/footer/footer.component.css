@@ -1,0 +1,30 @@
+#logo{
+    height: 90px;
+    width: 150px;
+    margin: 5px 3px 3px 3px;
+}
+
+i{
+    height: 1em;
+    width: 2em;
+}
+
+#f-icon-w{
+    height: 60px;
+    color: green;
+}
+
+#f-icon-w:hover{
+    color: chartreuse;
+}
+
+#f-icon-f{
+    height: 60px;
+    color: blue;
+}
+
+#f-icon-f:hover{
+    color: rgb(39, 114, 226);
+}
+
+

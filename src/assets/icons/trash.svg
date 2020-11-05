@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Trash</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M6 2h52"
+  stroke-linejoin="round" stroke-linecap="round"></path>
+  <path data-name="layer2" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M11 2l6 60h30l5.9-60M12.6 16h38.9M14 30h36.1M15.4 46h33.2"
+  stroke-linejoin="round" stroke-linecap="round"></path>
+  <path data-name="layer1" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" d="M24 2l3 60M40 2l-3 60" stroke-linejoin="round" stroke-linecap="round"></path>
+</svg>
